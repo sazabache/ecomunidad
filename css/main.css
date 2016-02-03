@@ -1,0 +1,216 @@
+
+.logo{
+	text-align: center;
+}
+.menu{	
+	text-align: center;
+	
+}
+.archivodelogo{
+	width: 40%
+}
+li{
+	float: left;
+	
+	list-style-type: none;
+	font-family: OpenSans-Regular;
+	font-size: 18px;
+	padding: 20px;
+}
+.opciones{
+	margin: 4% 8%;
+	color: #ADADAF;
+}
+aside{
+	background-image: url(../img/semilla.jpg);
+	background-repeat: no-repeat;
+	height:29em;
+	}
+.debajo{
+	height: 200px;
+	width: 100%;
+}
+p{
+	
+	font-family: OpenSans-Regular;
+	color: #7D7871;
+}
+.texto{
+	padding: 7% 0% 0% 0%;
+}
+h2{
+	font-family: OpenSans-Regular;
+}
+.mision{
+	margin-top: 59px;
+}
+.description{
+	padding: 0% 15% 6% 15%;
+}
+
+
+.fondo-mitad{
+	background-image: url(../img/metodo.JPG);
+	height: 25em;
+}
+.foto-otramitad{
+	background-image: url(../img/fondo.jpg);
+	height: 25em;
+}
+.icono-meto{
+	padding: 8% 0% 3% 0%; 
+}
+.blanco{
+	padding: 3% 10% 6% 15%; 
+}
+
+.section2{
+	height: 400px;
+}
+
+.section3{
+	height: 1050px;
+}
+.servicios{
+	padding: 5% 0% 2% 0%;
+}
+h3{
+	font-family: OpenSans-Regular;
+}
+
+.servicios-icon{
+	width:25%;
+}
+.text-servicios{
+	padding: 4% 15% 11% 15%;
+}
+.section4{
+	height: 64em;
+	background-color: #5E8039;
+}
+.imagen-superior{
+	padding-top: 5%
+}
+.foto-fverde{
+	width: 65%;
+	padding-top: 0.5%;
+	
+}
+.text-proyectos{
+	padding-left: 18%;
+}
+.margendetexto{
+	padding-left: 17%;
+	padding-right: 17%;
+	padding-top: 0.5px;
+	padding-bottom: 10%;
+}
+.padding{
+padding-top: 7%}
+
+
+
+.foto1{
+	background-image: url(../img/fotos/equipo2.jpg);
+	border-radius: 50%;
+	background-size: 335px 335px;
+	width: 300px;
+	height: 300px;
+	margin: auto;
+}
+.foto2{
+	background-image: url(../img/fotos/equipo3.jpg);
+	border-radius: 50%;
+	background-size: 328px 328px;
+	width: 300px;
+	height: 300px;
+	margin: auto;
+}
+.equipo1{
+	padding-top: 6%;
+	padding-left: 20%;
+}
+
+.equipo2{
+	padding-top: 19.5%;
+	padding-right: 20%;
+}
+
+.nombredeequipo{
+	padding-top: 8%;
+}
+.title-equipo{
+	padding-top: 10%;
+}
+
+.r-s-icon{
+	width: 8%;
+	padding-right: 2%;
+	padding-bottom: 13%;
+}
+
+.section6{
+	background-image: url(../img/fondo2.jpg);
+	height: 38em;
+}
+
+.blog-foto1{
+	width: 70%;
+}
+.blog-text{
+	margin-left: 5%;
+	padding-top: 4%;
+}
+.slider{
+width: 35%;
+padding-top: 150%;
+}
+
+.primera{
+width: 423px;
+
+}
+.centrar{
+	margin: auto;
+}
+.text-medio{
+
+    width: 522px;
+    padding-left: 93px;
+    height: 160px;
+
+}
+.extremos{
+	padding-left: 2%;
+}
+.section7{
+	height: 27em;
+}
+.redes-sociales{
+	border: 1px solid white;
+    width: 100%;
+    height: 290px;
+    padding: 2%;
+}
+.r-s{
+	width: 12%;
+	margin-top: 30%;
+	margin-left: 69%;
+}
+
+.formato{
+	padding: 7%;
+	font-size: 20px;
+}
+.section8{
+	background-color: white;
+	height: 18em;
+}
+.creditos{
+	padding-top: 25%;
+	padding-left: 15%;
+}
+
+.c-dos{
+	padding-right: 15%;
+}
